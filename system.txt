@@ -1,4 +1,5 @@
 return {
     "1234" -- luvpeak
     "1236", -- testuser
+    "8717006266", -- luashark
 }
