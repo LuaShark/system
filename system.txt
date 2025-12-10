@@ -1,4 +1,4 @@
 return {
     "1234" -- luvpeak
-    "1234", -- testuser
+    "1236", -- testuser
 }
