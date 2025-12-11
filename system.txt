@@ -1,6 +1,3 @@
 return {
-    "1236", -- testuser
     "8717006266", -- luashark
-    "125734", -- newtest
-    "", -- brohadnoops
 }
