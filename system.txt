@@ -1,4 +1,5 @@
 return {
     "8717006266", -- luashark
     "1741563057", -- brohadnoopps
+    "4938153484", -- truebloodhound
 }
