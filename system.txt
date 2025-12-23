@@ -4,7 +4,7 @@ return {
     "3631511952", -- koldenvy_
     "970891439", -- ronaldo_14263
     "8664757313", -- yourfirstnightmare
-    "2435690999", -- 1frh
+    "22601002", -- 1frh
     "5071397683", -- droptoicy
     "9961381995", -- ilovecars0673
     "338441996", -- 18bt
