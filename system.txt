@@ -21,4 +21,5 @@ return {
     "5401080375", -- chaset5996
     "2260925832", -- krazyelixer.
     "3291305055", -- fynmains
+    "3688811903", -- jay.bin.paid
 }
