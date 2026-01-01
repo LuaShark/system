@@ -22,4 +22,5 @@ return {
     "2260925832", -- krazyelixer.
     "3688811903", -- jay.bin.paid
     "1692144388", -- eatham000
+    "7786389966", -- nicklol0989
 }
