@@ -23,4 +23,6 @@ return {
     "3688811903", -- jay.bin.paid
     "1692144388", -- eatham000
     "7786389966", -- nicklol0989
+    "1421734868", -- its1cjj
+    "2038005549", -- shadetheonebob
 }
