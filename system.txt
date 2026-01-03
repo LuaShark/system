@@ -7,7 +7,7 @@ return {
     "1692144388", -- eatham000
     "7786389966", -- nicklol0989
     "1421734868", -- its1cjj
-    "4476627373", -- shadetheonebob
+    "2038005549", -- shadetheonebob
     "9254518317", -- luashark
     "4938153484", -- truebloodhound
     "3631511952", -- koldenvy_
