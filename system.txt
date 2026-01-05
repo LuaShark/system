@@ -9,7 +9,7 @@ return {
     "7786389966", -- nicklol0989
     "1421734868", -- its1cjj
     "2038005549", -- shadetheonebob
-    "9254518317", -- luashark
+    "4132704498", -- luashark
     "4938153484", -- truebloodhound
     "3631511952", -- koldenvy_
     "970891439", -- ronaldo_14263
