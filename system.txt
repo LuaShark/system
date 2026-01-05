@@ -1,3 +1,30 @@
 return {
-    "4132704498", -- luashark
+    ["3533950631"] = true, -- .120fpss
+    ["4409885247"] = true, -- acepopout_.
+    ["9220517327"] = true, -- marsx279
+    ["5401080375"] = true, -- chaset5996
+    ["2260925832"] = true, -- krazyelixer.
+    ["3688811903"] = true, -- jay.bin.paid
+    ["1692144388"] = true, -- eatham000
+    ["7786389966"] = true, -- nicklol0989
+    ["1421734868"] = true, -- its1cjj
+    ["2038005549"] = true, -- shadetheonebob
+    ["4132704498"] = true, -- luashark
+    ["4938153484"] = true, -- truebloodhound
+    ["3631511952"] = true, -- koldenvy_
+    ["970891439"]  = true, -- ronaldo_14263
+    ["8664757313"] = true, -- yourfirstnightmare
+    ["22601002"]   = true, -- 1frh
+    ["5071397683"] = true, -- droptoicy
+    ["9961381995"] = true, -- ilovecars0673
+    ["338441996"]  = true, -- 18bt
+    ["9519199939"] = true, -- woah_18272
+    ["7653836116"] = true, -- jain07189
+    ["9936874545"] = true, -- izcamm
+    ["473649322"]  = true, -- 9xgz
+    ["9836074078"] = true, -- theonendonlyk1ng
+    ["355000693"]  = true, -- pipedown101010
+    ["4637963957"] = true, -- oohhjay415
+    ["9972420314"] = true, -- michael_1230126
+    ["7776377917"] = true, -- _yi3k
 }
