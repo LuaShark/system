@@ -22,5 +22,16 @@ return {
     ["7653836116"] = true, -- jain07189
     ["9936874545"] = true, -- izcamm
     ["473649322"]  = true, -- 9xgz
+   ["3631511952"] = true, -- koldenvy_
+    ["970891439"]  = true, -- ronaldo_14263
+    ["8664757313"] = true, -- yourfirstnightmare
+    ["22601002"]   = true, -- 1frh
+    ["5071397683"] = true, -- droptoicy
+    ["9961381995"] = true, -- ilovecars0673
+    ["338441996"]  = true, -- 18bt
+    ["9519199939"] = true, -- woah_18272
+    ["7653836116"] = true, -- jain07189
+    ["9936874545"] = true, -- izcamm
+    ["473649322"]  = true, -- 9xgz
     ["3206944883"] = true, -- _yi3k
 }
