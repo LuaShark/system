@@ -13,5 +13,4 @@ return {
     "9936874545", -- izcamm
     "473649322",  -- 9xgz
     "9836074078", -- theonendonlyk1ng
-    "3206944883",  -- pipedown101010
 }
