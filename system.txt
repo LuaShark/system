@@ -1,10 +1,17 @@
 return {
-    ["3533950631"] = true, -- .120fpss
-    ["4409885247"] = true, -- acepopout_.
-    ["9220517327"] = true, -- marsx279
-    ["5401080375"] = true, -- chaset5996
-    ["2260925832"] = true, -- krazyelixer.
-    ["3688811903"] = true, -- jay.bin.paid
-    ["1692144388"] = true, -- eatham000
-    ["7786389966"] = true, -- nicklol0989
+    "9254518317", -- luashark
+    "4938153484", -- truebloodhound
+    "3631511952", -- koldenvy_
+    "970891439",  -- ronaldo_14263
+    "8664757313", -- yourfirstnightmare
+    "2435690999", -- 1frh
+    "5071397683", -- droptoicy
+    "9961381995", -- ilovecars0673
+    "338441996",  -- 18bt
+    "9519199939", -- woah_18272
+    "5829193435", -- jain07189
+    "9936874545", -- izcamm
+    "473649322",  -- 9xgz
+    "9836074078", -- theonendonlyk1ng
+    "355000693",  -- pipedown101010
 }
