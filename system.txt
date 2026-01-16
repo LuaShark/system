@@ -7,5 +7,5 @@ return {
     ["3688811903"] = true, -- jay.bin.paid
     ["1692144388"] = true, -- eatham000
     ["7786389966"] = true, -- nicklol0989
-    ["1421734868"] = true, -- its1cjj
+    ["3206944883"] = true, -- its1cjj
 }
